@@ -1,0 +1,13 @@
+{
+    "itemGroup.cuffed_example_addon": "Cuffed Example Addon",
+
+    "item.cuffed_example_addon.diamond_handcuffs_key": "Diamond Handcuffs Key",
+
+    "item.cuffed_example_addon.diamond_handcuffs": "Diamond Handcuffs",
+    
+    "info.cuffed_example_addon.restraints.diamond_handcuffs.name": "Diamond Handcuffs",
+    "info.cuffed_example_addon.restraints.diamond_handcuffs.action_bar": "Your hands are restrained!",
+
+    "info.cuffed_example_addon.restraints.diamond_legcuffs.name": "Diamond Legcuffs",
+    "info.cuffed_example_addon.restraints.diamond_legcuffs.action_bar": "Your legs are restrained!"
+}

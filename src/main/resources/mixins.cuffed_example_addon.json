@@ -1,0 +1,13 @@
+{
+    "required": true,
+    "package": "com.lazrproductions.cuffed_example_addon.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "mixin.cuffed_example_addon.refmap.json",
+    "server": [
+    ],
+    "mixins": [
+    ],
+    "client": [
+    ],
+    "minVersion": "0.8"
+}

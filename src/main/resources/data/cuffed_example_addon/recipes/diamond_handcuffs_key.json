@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "  N",
+      " NN",
+      "N  "
+    ],
+    "key": {
+      "N": {
+        "item": "minecraft:diamond"
+      }
+    },
+    "result": {
+      "item": "cuffed_example_addon:diamond_handcuffs_key",
+      "count": 1
+    }
+  }
